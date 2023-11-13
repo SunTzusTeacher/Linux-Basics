@@ -45,7 +45,8 @@ vagrant
 ````shell
 kali@kali:/usr/share/metasploit-framework/data/wordlists$ more password.lst
 --snip--
----
+````
+
 ### Same kinda thing as cat but lets you scoll only forward.
 ---
 
