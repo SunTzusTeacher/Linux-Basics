@@ -1,5 +1,5 @@
 # Linux-Basics
-A basic Linux guide for beginners starting from zero.
+A basic Linux guide for beginners starting from zero. Utilized Kali GNU/Linux Rolling Release 2023.03. 
 Exersises based on Occupy the Webs Linux Basic's for Hackers.
 
 
