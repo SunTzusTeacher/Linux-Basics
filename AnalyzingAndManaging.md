@@ -1,17 +1,15 @@
 <!---
-  Name          : Chapter_3.md
-  Project       : Linux Basics for Hackers 1e
-  Description   : Solutions to chapter 3 exercise problems
-  Creation Date : 06 September 2020
-  Author        : amenasec
-  Link          : https://github.com/amenasec
+  Name          : Analyzing and managing
+  Description   : Basic networking commands
+  Creation Date : 14 November 2023
+  Author        : Samhain
+  Link          : https://github.com/SunTzusTeacher/Linux-Basics
 --->
 
 
-# Chapter 3 Exercise Problems
+# Analyzing and Managing
 
-### 1.
-Find information on your active network interfaces.
+### Find information on your active network interfaces.
 
 ---
 
@@ -39,8 +37,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 ---
 
 
-### 2.
-Change the IP address on `eth0` to `192.168.1.1`.
+### Change the IP address on `eth0` to `192.168.1.1`.
 
 ---
 
@@ -69,8 +66,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 ---
 
 
-### 3.
-Change your hardware address on `eth0`.
+### Change your hardware address on `eth0`.
 
 ---
 
@@ -101,8 +97,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 ---
 
 
-### 4.
-Check whether you have any available wireless interfaces active.
+### Check whether you have any available wireless interfaces active.
 
 ---
 
@@ -116,8 +111,7 @@ eth0      no wireless extensions.
 ---
 
 
-### 5.
-Reset your IP address to a DHCP-assigned address.
+### Reset your IP address to a DHCP-assigned address.
 
 ---
 
@@ -146,8 +140,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 ---
 
 
-### 6.
-Find the nameserver and email server of your favorite website.
+### Find the nameserver and email server of your favorite website.
 
 ---
 
@@ -186,8 +179,7 @@ ns-520.awsdns-01.net.   5       IN      AAAA    2600:9000:5302:800::1
 ---
 
 
-### 7.
-Add Google's DNS server to your `/etc/resolv.conf` file so your system refers to that server when it can't resolve a domain name query with your local DNS server.
+### Add Google's DNS server to your `/etc/resolv.conf` file so your system refers to that server when it can't resolve a domain name query with your local DNS server.
 
 ---
 
