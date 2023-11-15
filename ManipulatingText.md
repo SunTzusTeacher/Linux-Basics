@@ -1,7 +1,7 @@
 <!---
   Name          : Manipulating Text
   Project       : Linux-Basics
-  Description   : Introduction to Linux File System
+  Description   : Introduction to Linux text manipulation
   Creation Date : 13 November 23
   Author        : Samhain
   Link          : https://github.com/SunTzusTeacher/Linux-Basics
