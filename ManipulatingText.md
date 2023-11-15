@@ -1,9 +1,10 @@
 <!---
-  Name          : ManipulatingText
+  Name          : Manipulating Text
   Project       : Linux-Basics
-  Creation Date : 13 November 2023
+  Description   : Introduction to Linux File System
+  Creation Date : 13 November 23
   Author        : Samhain
-  Link          : https://github.com/SunTzusTeacher/Linux-Basics/
+  Link          : https://github.com/SunTzusTeacher/Linux-Basics
 --->
 
 
