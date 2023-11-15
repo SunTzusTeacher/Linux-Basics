@@ -1,7 +1,8 @@
 <!---
-  Name          : Analyzing and managing
-  Description   : Basic networking commands
-  Creation Date : 14 November 2023
+    Name        : Analyzing and Managing
+  Project       : Linux-Basics
+  Description   : Introduction analyzing and managing networks
+  Creation Date : 14 November 23
   Author        : Samhain
   Link          : https://github.com/SunTzusTeacher/Linux-Basics
 --->
