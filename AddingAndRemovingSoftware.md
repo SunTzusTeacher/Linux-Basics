@@ -164,7 +164,7 @@ Reading package lists... Done
 ---
 
 ````shell
-kali@kali:~$ git clone https://github.com/amenasec/Linux-Basics-For-Hackers-1e.git
+kali@kali:~$ git clone https://github.com/samhain/Linux-Basics
 Cloning into 'Linux-Basics-For-Hackers-1e'...
 remote: Enumerating objects: 12, done.
 remote: Counting objects: 100% (12/12), done.
