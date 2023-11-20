@@ -39,7 +39,7 @@ kali >chmod 755 ScriptSevant
 ### Now lets Run it!
 ````shell
 kali >./ScriptSevant
-kali > I am a scripting sevant!
+kali >I am a scripting sevant!
 ````
 
 ---
@@ -71,14 +71,13 @@ echo "I am $name and I am $age and I am a scripting sevant!"
 
 ````shell
 kali >./ScriptSevant_v1
-kali > What is your name?
-kali > Bob
-kali > How old are you?
-kali > timeless
-kali > I am Bob and I am timeless and I am a scripting sevant!
+kali >What is your name?
+kali >Bob
+kali >How old are you?
+kali >timeless
+kali >I am Bob and I am timeless and I am a scripting sevant!
 ````
 ---
-
 
 
 
